@@ -1,0 +1,22 @@
+{
+    "name": "vkharlamov/simple-mvc",
+    "description": "Simple mvc project",
+    "type": "project",
+    "license": "no",
+    "authors": [
+        {
+            "name": "vkharlamov",
+            "email": "vkharlamov89@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "yidas/pagination" : "dev-master",
+      "plasticbrain/php-flash-messages" : "dev-master"
+    },
+
+  "autoload": {
+    "psr-4": {
+    }
+  }
+}

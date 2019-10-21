@@ -1,0 +1,6 @@
+/nbproject
+/.idea
+!.htaccess
+/vendor
+!/vendor/.htaccess
+/application/config/db.php
